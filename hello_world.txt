@@ -1,1 +1,2 @@
 Hello I am adding new text to this!
+Testing the commit message with VS Code
